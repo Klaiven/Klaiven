@@ -10,10 +10,10 @@
 
 <h1>Mexo com:</h1>
 
-![html5](https://img.shields.io/badge/HTML5-yellow)
-![css3](https://img.shields.io/badge/CSS3-blue)
-![java](https://img.shields.io/badge/JAVA-blue)
-![javascript](https://img.shields.io/badge/JavaScript-orange)
+![html5](https://img.shields.io/badge/HTML5-D84924)
+![css3](https://img.shields.io/badge/CSS3-3492CB)
+![java](https://img.shields.io/badge/JAVA-EC2025)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
 
 
 <h1 align="center">Hi, i'm Klaiven</h1>
@@ -24,3 +24,10 @@
 ![java em andamento](https://img.shields.io/badge/JAVA-IN%20PROGRESS-blue)<br />
 ![javascript iniciando](https://img.shields.io/badge/JavaScript-STARTING-orange)<br />
 ![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)<br />
+
+<h1>I work with:</h1>
+
+![html5](https://img.shields.io/badge/HTML5-D84924)
+![css3](https://img.shields.io/badge/CSS3-3492CB)
+![java](https://img.shields.io/badge/JAVA-EC2025)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
