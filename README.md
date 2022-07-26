@@ -8,6 +8,12 @@
 ![javascript iniciando](https://img.shields.io/badge/JavaScript-INICIANDO-orange)<br />
 ![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)<br />
 
+<h1>Mexo com:</h1>
+![html5 concluido](https://img.shields.io/badge/HTML5-CONCLUIDO-yellow)
+![css3 concluido](https://img.shields.io/badge/CSS3-CONCLUIDO-blue)
+![java em andamento](https://img.shields.io/badge/JAVA-EM%20ANDAMENTO-blue)
+https://img.shields.io/badge/JavaScript-INICIANDO-orange
+
 
 <h1 align="center">Hi, i'm Klaiven</h1>
 <p>I'm a web development student, I'm always looking for new languages ​​to learn, I found myself lost in my studies always studying random languages ​​but now I've set a goal, to become a web developer, and I'm following it one step at a time</p>
