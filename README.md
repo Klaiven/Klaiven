@@ -14,7 +14,16 @@
 ![css3](https://img.shields.io/badge/CSS3-3492CB)
 ![java](https://img.shields.io/badge/JAVA-EC2025)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![bootstrap](https://img.shields.io/badge/BootStrap-583C80)
+![GitHub](https://img.shields.io/badge/GitHub-202020)
+![Git](https://img.shields.io/badge/Git-#44C30)
+![Linguagem c](https://img.shields.io/badge/Linguagem%20C-blue)
+![visual studio code](https://img.shields.io/badge/VSCode-0085D0)
+![Sublime Text](https://img.shields.io/badge/SublimeText-4C4C4C)
+![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2D2056)
 
+
+<br /> <br />
 
 <h1 align="center">Hi, i'm Klaiven</h1>
 <p>I'm a web development student, I'm always looking for new languages ​​to learn, I found myself lost in my studies always studying random languages ​​but now I've set a goal, to become a web developer, and I'm following it one step at a time</p>
@@ -31,3 +40,10 @@
 ![css3](https://img.shields.io/badge/CSS3-3492CB)
 ![java](https://img.shields.io/badge/JAVA-EC2025)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![bootstrap](https://img.shields.io/badge/BootStrap-583C80)
+![GitHub](https://img.shields.io/badge/GitHub-202020)
+![Git](https://img.shields.io/badge/Git-#44C30)
+![language c](https://img.shields.io/badge/Language%20C-blue)
+![visual studio code](https://img.shields.io/badge/VSCode-0085D0)
+![Sublime Text](https://img.shields.io/badge/SublimeText-4C4C4C)
+![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2D2056)
