@@ -25,6 +25,10 @@
 ![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2D2056)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaiven&layout=compact)](https://github.com/klaiven/github-readme-stats)
+
+
+
 <br /> <br />
 
 <h1 align="center">Hi, i'm Klaiven</h1>
