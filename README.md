@@ -1,4 +1,12 @@
-### Hi there 👋
+![Código generico](https://user-images.githubusercontent.com/95566189/180918660-37e04fdf-e4be-4978-aa52-40d537f5ea14.jpeg)
+#Olá, eu me chamo Klaiven
+
+![html5 concluido](https://img.shields.io/badge/HTML5-CONCLUIDO-green)
+![css3 concluido](https://img.shields.io/badge/CSS3-CONCLUIDO-green)
+![java em andamento](https://img.shields.io/badge/JAVA-EM%20ANDAMENTO-blue)
+![javascript iniciando](https://img.shields.io/badge/JavaScript-INICIANDO-orange)
+![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)
+
 
 <!--
 **Klaiven/Klaiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
