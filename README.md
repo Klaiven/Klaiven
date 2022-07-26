@@ -9,10 +9,10 @@
 ![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)<br />
 
 <h1>Mexo com:</h1>
-![html5 concluido](https://img.shields.io/badge/HTML5-CONCLUIDO-yellow)
-![css3 concluido](https://img.shields.io/badge/CSS3-CONCLUIDO-blue)
-![java em andamento](https://img.shields.io/badge/JAVA-EM%20ANDAMENTO-blue)
-https://img.shields.io/badge/JavaScript-INICIANDO-orange
+![html5 concluido](https://img.shields.io/badge/HTML5-yellow)
+![css3 concluido](https://img.shields.io/badge/CSS3-blue)
+![java em andamento](https://img.shields.io/badge/JAVA-blue)
+![javascript iniciando](https://img.shields.io/badge/JavaScript-orange)
 
 
 <h1 align="center">Hi, i'm Klaiven</h1>
