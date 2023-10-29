@@ -8,7 +8,7 @@
 ![html5 concluded](https://img.shields.io/badge/HTML5-CONCLUDED-green)<br />
 ![css3 concluido](https://img.shields.io/badge/CSS3-CONCLUDED-green)<br />
 ![java em andamento](https://img.shields.io/badge/JAVA-IN%20PROGRESS-blue)<br />
-![javascript iniciando](https://img.shields.io/badge/JavaScript-STARTING-orange)<br />
+![javascript iniciando](https://img.shields.io/badge/JavaScript-CONCLUDED-green)<br />
 ![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)<br />
 
 <h1>I work with:</h1>
