@@ -1,30 +1,23 @@
-![Código generico](https://user-images.githubusercontent.com/95566189/180918660-37e04fdf-e4be-4978-aa52-40d537f5ea14.jpeg)
+# Hi, i'm Klaiven
+I'm a web development student, I'm always looking for new languages ​​to learn, I found myself lost in my studies always studying random languages ​​but now I've set a goal, to become a web developer, and I'm following it one step at a time
 
-<h1 align="center">Hi, i'm Klaiven</h1>
-<p>I'm a web development student, I'm always looking for new languages ​​to learn, I found myself lost in my studies always studying random languages ​​but now I've set a goal, to become a web developer, and I'm following it one step at a time</p>
+## My progress
 
-<h1>My progress</h1>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaiven&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![html5 concluded](https://img.shields.io/badge/HTML5-CONCLUDED-green)<br />
-![css3 concluido](https://img.shields.io/badge/CSS3-CONCLUDED-green)<br />
-![java em andamento](https://img.shields.io/badge/JAVA-IN%20PROGRESS-blue)<br />
-![javascript iniciando](https://img.shields.io/badge/JavaScript-CONCLUDED-green)<br />
-![banco de dados aguardando](https://img.shields.io/badge/MySQL-...-inactive)<br />
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=klaiven&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<h1>I work with:</h1>
 
-![html5](https://img.shields.io/badge/HTML5-D84924)
-![css3](https://img.shields.io/badge/CSS3-3492CB)
-![java](https://img.shields.io/badge/JAVA-EC2025)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![bootstrap](https://img.shields.io/badge/BootStrap-583C80)
-![GitHub](https://img.shields.io/badge/GitHub-202020)
-![Git](https://img.shields.io/badge/Git-E44C30)
-![language c](https://img.shields.io/badge/Language%20C-blue)
-![visual studio code](https://img.shields.io/badge/VSCode-0085D0)
-![Sublime Text](https://img.shields.io/badge/SublimeText-4C4C4C)
-![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2D2056)
+## Language
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h1> </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaiven&layout=compact)](https://github.com/klaiven/github-readme-stats)
+## Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaivencastro/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/klaivendev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:klaivencastro@gmail.com)
